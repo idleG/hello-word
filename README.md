@@ -1,2 +1,2 @@
 # hello word!
-start using this code farmer social network.
+my first repository.
